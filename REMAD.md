@@ -1,0 +1,2 @@
+#vc code file
+-c++
